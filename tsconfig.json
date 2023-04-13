@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "noImplicitAny": false,
+    "noUnusedLocals": false,
+    "sourceMap": true,
+    "preserveConstEnums": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "target": "es5",
+    "lib": ["esnext", "dom"],
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowJs": false,
+    "skipLibCheck": true,
+    "downlevelIteration": true,
+    "stripInternal": true,
+    "resolveJsonModule": true,
+  },
+}
